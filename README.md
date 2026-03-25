@@ -8,7 +8,6 @@ PLS-Sketch: A High-Performance Sketch for Finding Persistent Low-Spread Flows
 
 ---
 ### Files
-- Models/Data/Data.*: read packets from files
 - Models/CardinalityEstimator/BloomFilter.*: the bloom filter of PLS-Sketch
 - Models/PLSSketch.*: the class of PLS-Sketch
 - Models/PLSSketchTest.*: the program of testing PLS-Sketch
